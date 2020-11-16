@@ -6,6 +6,13 @@ A Communication Sciences graduates who are passionate about anything technology-
 
 [![Linkedin Badge](https://img.shields.io/badge/-Fierdy_Pandu_Setiawan-1ca0f1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fierdy-pandu-632484138/)](https://www.linkedin.com/in/fierdy-pandu-632484138/) [![Gmail Badge](https://img.shields.io/badge/-lifeisubw@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lifeisubw@gmail.com)](mailto:lifeisubw@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-Pandu-1ca0f1?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/PanduJRZ)](https://twitter.com/PanduJRZ)
 
+<a href="https://www.linkedin.com/in/fierdy-pandu-632484138/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://twitter.com/PanduJRZ">
+  <img src="https://img.shields.io/badge/twitter-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+</a>&nbsp;&nbsp;
+
 ## Languages & Tools
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
