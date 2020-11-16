@@ -10,7 +10,7 @@ A Communication Sciences graduates who are passionate about anything technology-
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://twitter.com/PanduJRZ">
-  <img src="https://img.shields.io/badge/twitter-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+  <img src="https://img.shields.io/badge/twitter-%1CA0F1.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
 </a>&nbsp;&nbsp;
 
 ## Languages & Tools
