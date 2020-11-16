@@ -1,6 +1,6 @@
 ﻿# Hi, Pandu's here. 👋💻
 
-A Communication Sciences graduates who is passionate about anything technology-related. Pursuing the self-taught path as a full-stack and mobile app (mainly Android) engineer.
+A Communication Sciences graduates who are passionate about anything technology-related. Pursuing the self-taught path as a full-stack and mobile app (mainly Android) engineer.
 
 ## Find me on 🌏
 
