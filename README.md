@@ -1,6 +1,6 @@
 ﻿# Hi! Pandu here.
 
-A Communication Sciences graduates who are passionate about anything technology-related with data and business. My passions in technology, data, and information, and how all of those combined have become crucial in the current global trend, drive me to self-taught programming without a prior Computer related background.
+A Communication Sciences graduates who are passionate about anything technology-related with data and business. My passions in technology, data, and information, and how all of those combined have become crucial in the current global trend, drive me to self-taught programming without a prior Computer related background and working extra hard through several courses.
 
 ## Find me on 🌏
 <a href="linkedin.com/in/fpandu/">
