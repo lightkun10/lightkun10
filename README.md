@@ -1,4 +1,4 @@
-﻿# Hi, Pandu here.
+﻿# Hi! I'm Fierdy Pandu Setiawan, you can call me Pandu.
 
 A Communication Sciences graduates who are passionate about anything technology-related, especially software. Pursuing the self-taught path as a full-stack and mobile app (mainly Android) developer.
 
