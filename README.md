@@ -3,7 +3,7 @@
 A Communication Sciences graduates who are passionate about anything technology-related with data and business. My passions in technology, data, and information, and how all of those combined have become crucial in the current global trend, drive me to self-taught programming without a prior Computer related background and working extra hard through several courses.
 
 ## Find me on 🌏
-<a href="linkedin.com/in/fpandu/">
+<a href="https://www.linkedin.com/in/fpandu/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://twitter.com/PanduJRZ">
